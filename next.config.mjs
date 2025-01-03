@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
+
   basePath: '/landingpage' ,
   assetPrefix: '/landingpage/',
   
@@ -28,7 +28,7 @@ const nextConfig = {
       },
     ],
   },
-   output: 'export'
+
 };
 
 export default nextConfig;
