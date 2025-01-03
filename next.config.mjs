@@ -2,6 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   basePath: '/landingpage' ,
+  assetPrefix: '/landingpage/',
   images: {
     remotePatterns: [
       {
