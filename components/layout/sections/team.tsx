@@ -24,7 +24,7 @@ interface SocialNetworkProps {
 export const TeamSection = () => {
   const teamList: TeamProps[] = [
     {
-      imageUrl: "/shankar.jpg",
+      imageUrl: "/landingpage/shankar.jpg",
       firstName: "Shankar Rao",
       lastName: "Mata",
       positions: ["Lead Technical Architect"],
@@ -44,7 +44,7 @@ export const TeamSection = () => {
       ],
     },
     {
-      imageUrl: "/vivek.jpg",
+      imageUrl: "/landingpage/vivek.jpg",
       firstName: "Vivek",
       lastName: "jami",
       positions: ["full stack developer"],
@@ -65,7 +65,7 @@ export const TeamSection = () => {
       ],
     },
     {
-      imageUrl: "/me2.jpg",
+      imageUrl: "/landingpage/me2.jpg",
       firstName: "Lokeswara Rao",
       lastName: "Katari",
       positions: ["Junior Sofware Engineer"],
