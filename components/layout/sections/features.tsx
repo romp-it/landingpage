@@ -109,7 +109,7 @@ const features = [
     icon: <Users className="h-8 w-8 text-primary" />,
   },
   {
-    title: "Customer-Centric",
+    title: "Customer-Centric ",
     description:
       "We work closely with you to transform your ideas into reality.",
     icon: <CheckCircle className="h-8 w-8 text-primary" />,
