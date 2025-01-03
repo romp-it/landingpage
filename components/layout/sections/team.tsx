@@ -86,8 +86,7 @@ export const TeamSection = () => {
       ],
     },
     {
-      imageUrl:
-        "https://media.licdn.com/dms/image/v2/D5603AQHtnwG-C-pt1w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1679389939324?e=1741219200&v=beta&t=9pBJ2I687WpW7oyxoU8M82nnvnPnYqxvzWBQlq8CdqE",
+      imageUrl: "/landingpage/harish.png",
       firstName: "Harish",
       lastName: "K",
       positions: ["UI/UX Designer"],
