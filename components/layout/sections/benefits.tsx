@@ -13,25 +13,25 @@ const benefitList: BenefitsProps[] = [
     icon: "Blocks",
     title: "Build Brand Trust",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio velit cum aliquam. Natus consectetur dolores.",
+      "Build confidence and credibility with your audience through transparent and consistent messaging.",
   },
   {
     icon: "LineChart",
     title: "More Leads",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio velit cum aliquam, natus consectetur.",
+      "Attract potential customers effectively by showcasing the unique value your brand offers.",
   },
   {
     icon: "Wallet",
     title: "Higher Conversions",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus consectetur. A odio velit cum aliquam",
+      "Enhance user experience and drive sales with a targeted and compelling call to action.",
   },
   {
     icon: "Sparkle",
     title: "Test Marketing Ideas",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio velit cum aliquam. Natus consectetur dolores.",
+      "Experiment with innovative strategies to find the most effective ways to engage your audience.",
   },
 ];
 
@@ -46,9 +46,7 @@ export const BenefitsSection = () => {
             Your Shortcut to Success
           </h2>
           <p className="text-xl text-muted-foreground mb-8">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non
-            ducimus reprehenderit architecto rerum similique facere odit
-            deleniti necessitatibus quo quae.
+          Discover the key advantages that set your brand apart and pave the way for exceptional results.
           </p>
         </div>
 
