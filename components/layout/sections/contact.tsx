@@ -52,7 +52,7 @@ export const ContactSection = () => {
     const { firstName, lastName, email, subject, message } = values;
     console.log(values);
 
-    const mailToLink = `mailto:ceo@rompit.org?subject=${subject}&body=Hello I am ${firstName} ${lastName}, my Email is ${email}. %0D%0A${message}`;
+    const mailToLink = `mailto:info@rompit.org?subject=${subject}&body=Hello I am ${firstName} ${lastName}, my Email is ${email}. %0D%0A${message}`;
 
     window.location.href = mailToLink;
   }
@@ -100,7 +100,7 @@ export const ContactSection = () => {
                 <div className="font-bold">Mail US</div>
               </div>
 
-              <div>ceo@rompit.org</div>
+              <div>info@rompit.org</div>
             </div>
 
             <div>
@@ -111,7 +111,7 @@ export const ContactSection = () => {
 
               <div>
                 <div>Monday - Friday</div>
-                <div>8AM - 4PM</div>
+                <div>9AM - 4PM</div>
               </div>
             </div>
           </div>
@@ -180,7 +180,7 @@ export const ContactSection = () => {
                     name="subject"
                     render={({ field }) => (
                       <FormItem>
-                        <FormLabel>Subject</FormLabel>
+                        <FormLabel>Role</FormLabel>
                         <Select
                           onValueChange={field.onChange}
                           defaultValue={field.value}
