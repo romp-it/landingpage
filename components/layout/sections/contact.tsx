@@ -164,7 +164,7 @@ export const ContactSection = () => {
                         <FormControl>
                           <Input
                             type="email"
-                            placeholder="ceo@rompit.org"
+                            placeholder="info@rompit.org"
                             {...field}
                           />
                         </FormControl>
